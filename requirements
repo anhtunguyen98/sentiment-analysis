@@ -1,0 +1,6 @@
+Flask
+torch
+gensim
+pyvi
+gunicorn
+keras
